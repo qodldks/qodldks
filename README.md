@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi My name is joonseo Shin
+### My blog is https://linktr.ee/baeian
 
 <!--
 **baeian/baeian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
