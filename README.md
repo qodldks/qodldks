@@ -1,8 +1,9 @@
-## 👋Hi, I'm Highschool student Shinjoonseo who want to be frontend developer.
+## 👋Hi, I'm Highschool student Shinjoonseo who want to be Frontend developer.
 ## 👋만나서 반가워요! 저는 프론트엔드 개발자를 꿈꾸는 고등학생 신준서입니다.
 ---
 <div align=center>
-
+  
+# Skills
 ### Things I can do
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
@@ -30,15 +31,15 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
+---
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeian&theme=github_dark&hide_border=true&hide=stars,commits&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeian&layout=compact&theme=github_dark&hide_border=true&custom_title=Language)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
-### My Stat
-![](https://img.shields.io/github/last-commit/baeian/baeian.github.io?color=success)
-![](https://img.shields.io/github/commit-activity/w/baeian/baeian.github.io?color=success)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeian&theme=github_dark&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🙇Thank you for visiting.
 ### 🙇방문해주셔서 감사합니다.
 #### [More about me...](https://linktr.ee/baeian)
