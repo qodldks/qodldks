@@ -1,11 +1,10 @@
-## 👋Hi!
-## 👋만나서 반가워요! 
+### 👋Hi!
+### 👋만나서 반가워요! 
 ### I'm Highschool student Shinjoonseo who want to be Frontend developer and Product designer.
 ### 저는 프론트엔드 개발자와 프로덕트 디자이너를 꿈꾸는 고등학생 신준서입니다.
 ---
 <div align=center>
   
-# Skills
 ### Things I can do
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
