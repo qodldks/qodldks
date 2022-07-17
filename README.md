@@ -23,7 +23,7 @@
 
 ### Going to learn
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![](https://img.shields.io/badge/ReactNative-31A8FF?style=flat&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React.js-31A8FF?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
   
 ### And some Backend...
