@@ -1,5 +1,5 @@
 ### 👋Hi! I'm Highschool student Shinjoonseo who want to be Frontend engineer and Product designer.
-### 👋만나서 반가워요!  저는 프론트엔드 개발자와 웹 디자이너를 꿈꾸는 고등학생 신준서입니다.
+### 👋만나서 반가워요!  저는 프론트엔드 개발자와 UXUI 디자이너를 꿈꾸는 고등학생 신준서입니다.
 ---
 <div align=left>
   
