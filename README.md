@@ -15,3 +15,9 @@
 ### 🙇Thank you for visiting.
 ### 🙇방문해주셔서 감사합니다.
 #### [More about me...](https://linktr.ee/baeian)
+
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
