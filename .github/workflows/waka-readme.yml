@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: baeian/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${747d09e5-a3a6-4cea-91de-ef7837665647}
+          WAKATIME_API_KEY: 747d09e5-a3a6-4cea-91de-ef7837665647
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
