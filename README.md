@@ -26,10 +26,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baeian&theme=discord&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 ![](profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <img src="https://raw.githubusercontent.com/baeian/baeian/01136b31b5255704e8e4c5701e167751c14cff0a/SJS.svg" width="800">
 </div>
+-->
 
 <!--<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
 
