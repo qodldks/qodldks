@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=300&section=header&text=ShinJoonseo&desc=Frontend%20Developer%20and%20Designer&fontSize=105&fontColor=ffffff&fontAlignY=40&descAlign=63&descAlignY=58&descSize=25&animation=fadeIn)
 
+<img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" width="600">
+<!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -15,7 +17,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  
+-->
 <br>
 <br>
   
@@ -32,6 +34,8 @@
 
 <!--<img src="https://raw.githubusercontent.com/baeian/baeian/a06ea3efa024ed69b201e096c79f0fa3dcdb1a39/%EC%9E%90%EC%82%B0%202.svg">
 </div>-->
+
+</div>
 
 <!--<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
 
