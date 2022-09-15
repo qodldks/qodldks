@@ -22,11 +22,9 @@
 <br>
   
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qodldks_/)
-[![](https://simpleicons.org/icons/velog.svg&logoColor=white)](https://www.instagram.com/qodldks_/)
+<!--[![](https://simpleicons.org/icons/velog.svg&logoColor=white)](https://www.instagram.com/qodldks_/)
 
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=baeian&theme=discord&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=baeian&theme=discord&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
