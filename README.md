@@ -4,7 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" height="350">
 <br>
-<img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150" href="youtube.com">
+  <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150"></a>
+
 <img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/velog.svg" height="150">
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
