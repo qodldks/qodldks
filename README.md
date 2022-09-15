@@ -2,7 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=300&section=header&text=ShinJoonseo&desc=Frontend%20Developer%20and%20Designer&fontSize=105&fontColor=ffffff&fontAlignY=40&descAlign=63&descAlignY=58&descSize=25&animation=fadeIn)
 
-<img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" width="600">
+<img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" height="350">
+<br>
+<img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150" href="youtube.com">
+<img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/velog.svg" height="150">
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
