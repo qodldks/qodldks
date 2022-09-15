@@ -4,9 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" height="350">
 <br>
-  <a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150"></a>
-
-<img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/velog.svg" height="150">
+  <br>
+  <br>
+  <br>
+  <a href="https://www.instagram.com/qodldks_/"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150"></a>
+<br>
+  <br>
+  <br>
+<a href="https://velog.io/@baeian"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/velog.svg" height="150"></a>
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +30,7 @@
 <br>
 <br>
   
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qodldks_/)
+<!--[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qodldks_/)-->
 <!--[![](https://simpleicons.org/icons/velog.svg&logoColor=white)](https://www.instagram.com/qodldks_/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baeian&theme=discord&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
