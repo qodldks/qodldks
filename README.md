@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/baeian/baeian/517be6603248322aa2cbc8a3135cee5a31a49d9d/skillset_1.svg" height="350">
+<img src="https://raw.githubusercontent.com/baeian/baeian/70a76b47d844edf6efa0373ad63de7d070e29b2e/%EC%9E%90%EC%82%B0%2017.svg" height="350">
 <br>
   <br>
   <br>
