@@ -16,11 +16,11 @@
   <br>
   <br>
   <br>
-  <a href="https://www.instagram.com/qodldks_/"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/instagram.svg" height="150"></a>
+  <a href="https://www.instagram.com/qodldks_/"><img src="https://raw.githubusercontent.com/baeian/baeian/b541ec71146e8dc2f04f9afe98670b8d986d191c/%EC%9E%90%EC%82%B0%2018.svg" height="150"></a>
 <br>
   <br>
   <br>
-<a href="https://velog.io/@baeian"><img src="https://raw.githubusercontent.com/baeian/baeian/21b8c7e3c8ac68f6f32b58d966e803fb4c935a9f/velog.svg" height="150"></a>
+<a href="https://velog.io/@baeian"><img src="https://raw.githubusercontent.com/baeian/baeian/b541ec71146e8dc2f04f9afe98670b8d986d191c/%EC%9E%90%EC%82%B0%2019.svg" height="150"></a>
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
