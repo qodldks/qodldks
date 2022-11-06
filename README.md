@@ -6,12 +6,12 @@
 
 
 <img src="https://raw.githubusercontent.com/baeian/baeian/96a204b1a7da20b41a086a837243f625b01f34e8/%EC%9E%90%EC%82%B0%2016.svg" width="700">
+<!-- <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<!-- <img src="https://raw.githubusercontent.com/baeian/baeian/70a76b47d844edf6efa0373ad63de7d070e29b2e/%EC%9E%90%EC%82%B0%2017.svg" height="350">
+   <img src="https://raw.githubusercontent.com/baeian/baeian/70a76b47d844edf6efa0373ad63de7d070e29b2e/%EC%9E%90%EC%82%B0%2017.svg" height="350">
 <br>
   <br>
   <br>
@@ -45,7 +45,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=baeian&theme=discord&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
 <!--<img src="https://raw.githubusercontent.com/baeian/baeian/a06ea3efa024ed69b201e096c79f0fa3dcdb1a39/%EC%9E%90%EC%82%B0%202.svg">
