@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/baeian/baeian/70a76b47d844edf6efa0373ad63de7d070e29b2e/%EC%9E%90%EC%82%B0%2017.svg" height="350">
+<!-- <img src="https://raw.githubusercontent.com/baeian/baeian/70a76b47d844edf6efa0373ad63de7d070e29b2e/%EC%9E%90%EC%82%B0%2017.svg" height="350">
 <br>
   <br>
   <br>
@@ -20,7 +20,7 @@
 <br>
   <br>
   <br>
-<a href="https://velog.io/@baeian"><img src="https://raw.githubusercontent.com/baeian/baeian/b541ec71146e8dc2f04f9afe98670b8d986d191c/%EC%9E%90%EC%82%B0%2019.svg" height="150"></a>
+<a href="https://velog.io/@baeian"><img src="https://raw.githubusercontent.com/baeian/baeian/b541ec71146e8dc2f04f9afe98670b8d986d191c/%EC%9E%90%EC%82%B0%2019.svg" height="150"></a> -->
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
