@@ -5,7 +5,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/baeian/baeian/96a204b1a7da20b41a086a837243f625b01f34e8/%EC%9E%90%EC%82%B0%2016.svg" width="700">
+   <img src="https://raw.githubusercontent.com/baeian/baeian/96a204b1a7da20b41a086a837243f625b01f34e8/%EC%9E%90%EC%82%B0%2016.svg" width="700">
+   
+   # [TechBlog](https://velog.io/@baeian)
+   &nbsp;
+</div>
+
+
 <!-- <br>
 <br>
 <br>
@@ -50,8 +56,6 @@
 
 <!--<img src="https://raw.githubusercontent.com/baeian/baeian/a06ea3efa024ed69b201e096c79f0fa3dcdb1a39/%EC%9E%90%EC%82%B0%202.svg">
 </div>-->
-
-</div>
 
 <!--<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
 
