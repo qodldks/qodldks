@@ -7,9 +7,6 @@
 
    <img src="https://github.com/SH1NJ00NSE0/SH1NJ00NSE0/blob/master/%EA%B9%83%ED%97%88%EB%B8%8C%EB%A6%AC%EB%93%9C%EB%AF%B8_1@4x.png?raw=true" width="1200">
    <!--<img src="https://raw.githubusercontent.com/baeian/baeian/96a204b1a7da20b41a086a837243f625b01f34e8/%EC%9E%90%EC%82%B0%2016.svg" width="700">-->
-   
-   # [TechBlog](https://velog.io/@baeian)
-   &nbsp;
 </div>
 
 
