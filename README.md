@@ -1,5 +1,4 @@
 # [Behance](https://www.behance.net/66c34071) [velog](https://velog.io/@baeian)
-# 🎉문상훈 결혼🎉
 <!--
 <div>
   <a href="https://youtu.be/y02I-vz-kBs?t=738">
