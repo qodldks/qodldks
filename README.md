@@ -1,4 +1,9 @@
-# [Behance](https://www.behance.net/66c34071) [velog](https://velog.io/@baeian)
+## 안녕하세요, 문제해결에 맛들인 UIUX 디자이너 신준서입니다.
+오늘도 다양한 문제를 해결하며 더 나은 디자이너로 성장하고 있습니다.
+
+> [Behance](https://www.behance.net/66c34071), [velog](https://velog.io/@baeian)
+
+
 <!--
 <div>
   <a href="https://youtu.be/y02I-vz-kBs?t=738">
