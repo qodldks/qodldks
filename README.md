@@ -1,7 +1,7 @@
 ## 안녕하세요, 문제해결에 맛들인 UIUX 디자이너 신준서입니다.
 오늘도 다양한 문제를 해결하며 더 나은 디자이너로 성장하고 있습니다.
 
-> [Behance](https://www.behance.net/66c34071), [Blog](https://qodldks.tistory.com/)
+> [Behance](https://www.behance.net/66c34071), [Blog](https://velog.io/@baeian)
 
 
 <!--
