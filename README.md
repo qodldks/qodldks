@@ -1,4 +1,4 @@
-## 안녕하세요, 문제해결에 맛들인 UXUI 디자이너 신준서입니다.
+## 안녕하세요, 문제해결에 맛들인 프로덕트 디자이너 신준서입니다.
 사소한 문제도 놓치지 않는 통찰력으로 UX를 개선합니다.<br>
 또한 끊임없는 배움과 성장을 갈망하며 하루하루 더 나은 디자이너가 되고 있습니다.
 > [Portfolio](https://baeian.notion.site/baeian/ShinJoonseo-Portfolio-6d05953968ca4acf9092cf70536dc4ec), [Behance](https://www.behance.net/66c34071), [Blog](https://velog.io/@baeian)
