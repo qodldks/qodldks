@@ -1,25 +1,5 @@
-## 안녕하세요, 문제해결에 맛들인 프로덕트 디자이너 신준서입니다.
-사소한 문제도 놓치지 않는 통찰력으로 UX를 개선합니다.<br>
-또한 끊임없는 배움과 성장을 갈망하며 하루하루 더 나은 디자이너가 되고 있습니다.<br>
-제 작업물이 궁금하시다면 비핸스, 포트폴리오에서 확인해주세요!
-> [Portfolio](https://baeian.notion.site/baeian/ShinJoonseo-Portfolio-6d05953968ca4acf9092cf70536dc4ec), [Behance](https://www.behance.net/66c34071), [Blog](https://velog.io/@baeian)
-
-
-<!--
-<div>
-  <a href="https://youtu.be/y02I-vz-kBs?t=738">
-    <img src="https://github.com/qodldks/qodldks/blob/master/yearning.jpg?raw=true" width="400px"/>
-  </a>
-  <a href="https://youtu.be/y02I-vz-kBs?t=754">
-    <img src="https://github.com/qodldks/qodldks/blob/master/last%20vlog.jpg?raw=true" width="400px"/>
-  </a>
-  <a href="https://youtu.be/y02I-vz-kBs?t=882">
-    <img src="https://github.com/qodldks/qodldks/blob/master/%EC%B0%8C%EB%8B%88%EA%BE%B8.jpg?raw=true" width="400px"/>
-  </a>
-  <a href="https://youtu.be/y02I-vz-kBs?t=990">
-    <img src="https://github.com/qodldks/qodldks/blob/master/love.jpg?raw=true" width="400px"/>
-  </a>
-</div>
--->
-
-
+## 안녕하세요, 경험을 통해 성장하는 디자이너, 신준서입니다.
+단순히 아름다운 디자인보다는 사용자가 편한 디자인을 추구하고 계속 고민합니다.<br>
+꾸준한 팀 프로젝트와 해커톤 참가 경험을 통해 협업 능력도 기르고 있습니다.<br>
+특히 개발자와의 원활한 협업을 위해 개발자로서도 프로젝트에 참여하고 있습니다.<br>
+> ### [Portfolio](https://baeian.notion.site/baeian/ShinJoonseo-Portfolio-6d05953968ca4acf9092cf70536dc4ec), [Behance](https://www.behance.net/66c34071), [Blog](https://velog.io/@baeian)
