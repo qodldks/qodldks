@@ -23,4 +23,4 @@
 임팩트를 낼 수 있는 디자이너가 돼야 한다고 생각합니다. <br>
 최종적으로는 툴과 언어에 얽메이지 않는 Problem Solver가 되는 것이 목표입니다. <br>
 
-> ### [Portfolio](https://bit.ly/qodldks), [Behance](https://www.behance.net/66c34071), [Blog](https://qodldks.tistory.com/)
+> ### [Portfolio](https://bit.ly/qodldks), [Behance](https://www.behance.net/66c34071), [Blog](https://qodldks.tistory.com/) <= click me!
